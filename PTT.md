@@ -108,7 +108,6 @@
 | **Testing**      | Jest, React Testing Library, Cypress, Supertest                        |
 | **DevOps**       | Docker, GitHub Actions, AWS EC2, Winston (logging)                     |
 | **Herramientas** | ESLint, Prettier, Swagger, Storybook                                   |
-| Área             | Tecnologías                                                            |
 
 **Justificación:**
 
