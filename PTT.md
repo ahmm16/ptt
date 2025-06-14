@@ -1,4 +1,4 @@
-# Documentación Técnica: Pro Table Tennis (PTT)
+# Pro Table Tennis (PTT): Documentación Genérica
 
 ## Sistema de Gestión para Profesores y Torneos de Tenis de Mesa (Ping Pong)
 
