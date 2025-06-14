@@ -483,9 +483,12 @@ const PingPongTable = ({ students, onSelectStudent }) => (
 
 ## Recursos Adicionales
 
-### Alternativa para Logo y Favicon
+### Alternativas para Logo y Favicon
 
 ![PTT Logo](./image.png)
+
+![image](https://github.com/user-attachments/assets/c76b50a4-96bc-4dc8-8f0a-30b056a0a0a8)
+
 
 ![Favicon](./image.ico)
 
