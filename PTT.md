@@ -489,6 +489,10 @@ const PingPongTable = ({ students, onSelectStudent }) => (
 
 ![Favicon](./image.ico)
 
+### Prototipo de documentación oficial
+
+![PDF](./example-pdf.png)
+
 ## Equipo
 
 - **Frontend Senior:** Alexander Hernández Martín
