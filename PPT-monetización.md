@@ -1,4 +1,4 @@
-# Módulo de Estrategias de Monetización - Pro Table Tennis (PTT)
+# Módulo de Gestión de Monetización - Pro Table Tennis (PTT)
 
 ## Modelos de Ingresos para la Aplicación
 
